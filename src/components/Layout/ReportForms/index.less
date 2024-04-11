@@ -1,0 +1,206 @@
+.timeContainer{
+  top:60px !important;
+  :global{
+    .ant-dropdown-menu-item{
+      min-width: 120px;
+      padding: 2px 12px;
+      &:first-child{
+        cursor: default;
+        &:hover{
+          background-color: #fff;
+        }
+      }
+    }
+  }
+}
+.timeModal{
+  :global{
+    .ant-modal{
+      top: 60px;
+      position:absolute;
+      right: 180px;
+    }
+    .ant-modal-body{
+      padding: 24px 24px 16px !important;
+    }
+  }
+}
+.pdfmodal{
+  height: 1000px;
+  position: absolute;
+  top: -9999px;
+  right: -9999px;
+  z-index: -9999;
+}
+.loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  font-size: 20px;
+}
+.firPage {
+  height: 800px;
+}
+
+.hTable {
+  margin-top: 16px;
+}
+.text{
+  font-size: 16px;
+  margin-top: 16px;
+  text-indent: 24px
+}
+
+.pdfView {
+  :global(.ant-modal) {
+    top: 16px;
+    padding-bottom: 0;
+  }
+  :global(.ant-modal-content) {
+    :global(.ant-modal-body) {
+      height: 850px;
+      overflow: auto;
+      padding: 0px 46px 46px 46px !important;
+      // 滚动条样式写在body类名上
+      &::-webkit-scrollbar {
+        width: 6px;
+        height: 4px;
+      }
+      &::-webkit-scrollbar-thumb {
+        background: rgba(149, 146, 146, 0.2);
+        border-radius: 10px;
+        box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+      }
+      &::-webkit-scrollbar-track {
+        background: rgba(0, 0, 0, 0.1);
+        border-radius: 10;
+        box-shadow: inset 0 0 5px rgba(205, 203, 203, 0.2);
+      }
+    }
+  }
+}
+.descriptions {
+  :global {
+    .ant-descriptions-row {
+      border: 1px solid #9acae1;
+      &:last-child {
+        border: 1px solid #9acae1;
+      }
+    }
+    .ant-descriptions-item-label {
+      background-color: #dcebf0;
+      border-right: 1px solid #9acae1;
+    }
+  }
+}
+
+.title {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 18px;
+}
+.mulu{
+  height: 920px;
+  margin-bottom: 30px;
+}
+.muluList {
+  width: 100%;
+  .muluListItem {
+    line-height: 36px;
+    display: flex;
+    font-weight: 600;
+    span {
+      font-size: 14px;
+      padding: 0 10px;
+      box-sizing: border-box;
+    }
+    .itName {
+    }
+    .secondItName{
+      padding-left: 30px;
+    }
+    .thirdItName{
+      padding-left: 60px;
+    }
+    .itLine {
+      flex-grow: 1;
+      border-bottom: 0.2px dashed;
+      margin-bottom: 14px;
+    }
+    .itpageNum{
+      padding: 0;
+    }
+  }
+}
+.detailTable {
+  :global {
+    .ant-table-content{
+      border: 1px dashed #c8c8c8;
+      border-right: none ;
+      border-bottom: none ;
+    }
+    .ant-table-thead tr th {
+      background-color: #0070c0;
+      border-bottom: 1px dashed #c8c8c8;
+      border-right: 1px dashed #c8c8c8 !important;
+      color: #fff;
+    }
+    .ant-table-tbody tr:nth-child(odd) {
+      background-color: #f1f1f1;
+    }
+    .ant-table-tbody tr td {
+      border-right: 1px dashed #c8c8c8 !important;
+      border-bottom: 1px dashed #c8c8c8 !important
+    }
+  }
+}
+.panelBox{
+  background-color: #1558b9;
+  border-radius: 6px;
+  height: 96px;
+  color: #fff;
+  padding: 20px 0;
+  display: inline-flex;
+  .itemContainer{
+    position: relative;
+    .panelItem{
+      width: 96px;
+      display: flex;
+      flex-direction:column;
+      justify-content: space-between;
+      height: 100%;
+      .num{
+        font-size: 18px;
+        text-align: center;
+      }
+      .name{
+        height: 21px;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        .img{
+          margin-right:6px;
+        }
+      }
+    }
+    .panelItem::after{
+      content: url(../../../assets/common/reportForm/divider.png);
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translate(0, -50%); 
+      width: 0;
+      height: 46px;
+    }
+  }
+  .itemContainer:last-of-type .panelItem::after{
+    content: '';
+  }
+}

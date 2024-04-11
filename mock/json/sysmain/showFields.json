@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "isCreateAccount":"Y",
+  "userName":"admin",
+  "data": [
+    {
+      "name": "status",
+      "show":"Y"
+    },
+    {
+      "name": "createAccount",
+      "show":"Y"
+    },
+    {
+      "name": "menu",
+      "show":"Y"
+    },
+    {
+      "name": "domainControl",
+      "show":"Y"
+    },
+    {
+      "name": "domainContent",
+      "show":"Y"
+    },
+    {
+      "name": "zone",
+      "show":"Y"
+    },
+    {
+      "name": "type",
+      "content":"usr"
+    }
+  ]
+}

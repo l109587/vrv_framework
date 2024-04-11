@@ -1,0 +1,23 @@
+<svg id="历史浏览" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_1346" data-name="矩形 1346" class="cls-1" width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="组_1489" data-name="组 1489" class="cls-2">
+    <path id="路径_4079" data-name="路径 4079" class="cls-1" d="M1,14.5V1.5A.5.5,0,0,1,1.5,1H14.484a.5.5,0,0,1,.5.5V5h1V1.5a1.5,1.5,0,0,0-1.5-1.5H1.5A1.5,1.5,0,0,0,0,1.5v13A1.5,1.5,0,0,0,1.5,16H6.992V15H1.5a.5.5,0,0,1-.5-.5"/>
+    <path id="路径_4080" data-name="路径 4080" class="cls-1" d="M12.987,3.5a.573.573,0,0,0-.624-.5H3.625A.573.573,0,0,0,3,3.5a.573.573,0,0,0,.624.5h8.738a.573.573,0,0,0,.624-.5" transform="translate(-0.004)"/>
+    <path id="路径_4081" data-name="路径 4081" class="cls-1" d="M3.126,6C3.057,6,3,6.185,3,6.412s.056.411.125.411H4.873c.069,0,.125-.184.125-.411S4.941,6,4.873,6Z" transform="translate(-0.004)"/>
+    <path id="路径_4082" data-name="路径 4082" class="cls-1" d="M10.514,5a5.5,5.5,0,1,0,5.493,5.5A5.5,5.5,0,0,0,10.514,5m0,10a4.5,4.5,0,1,1,4.494-4.5A4.5,4.5,0,0,1,10.514,15" transform="translate(-0.007)"/>
+    <path id="路径_4083" data-name="路径 4083" class="cls-1" d="M11,11V8H10v4h3.995V11Z" transform="translate(-0.013)"/>
+  </g>
+</svg>

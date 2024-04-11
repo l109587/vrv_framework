@@ -1,0 +1,2214 @@
+{
+  "id": "4484676",
+  "name": "webIcon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "39722329",
+      "name": "NihonKohden",
+      "font_class": "NihonKohden1",
+      "unicode": "e796",
+      "unicode_decimal": 59286
+    },
+    {
+      "icon_id": "39722338",
+      "name": "OmegaTechnologyWirelessNRout",
+      "font_class": "OmegaTechnologyWirelessNRout1",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "39722297",
+      "name": "KonicaMinolta",
+      "font_class": "KonicaMinolta1",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "39722358",
+      "name": "ShenzhenCudyTechnology",
+      "font_class": "ShenzhenCudyTechnology1",
+      "unicode": "e789",
+      "unicode_decimal": 59273
+    },
+    {
+      "icon_id": "39722367",
+      "name": "QNAPSystems",
+      "font_class": "QNAPSystems1",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "39722305",
+      "name": "MaxprintTechnology",
+      "font_class": "MaxprintTechnology1",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "39722382",
+      "name": "TsinghuaTongfangComputer",
+      "font_class": "TsinghuaTongfangComputer1",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "39722393",
+      "name": "TDA-TechnologyDivisionAdvanc",
+      "font_class": "TDA-TechnologyDivisionAdvanc1",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    },
+    {
+      "icon_id": "39722391",
+      "name": "ToshibaTec",
+      "font_class": "ToshibaTec1",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "39722401",
+      "name": "YucelElektronik-Technopc",
+      "font_class": "YucelElektronik-Technopc1",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    },
+    {
+      "icon_id": "39722403",
+      "name": "W-NetTechnology",
+      "font_class": "W-NetTechnology1",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "39722398",
+      "name": "Wind River VxWorks",
+      "font_class": "a-WindRiverVxWorks1",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "39721840",
+      "name": "Apple",
+      "font_class": "Apple",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "39721841",
+      "name": "Amazon",
+      "font_class": "Amazon",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "39721842",
+      "name": "Advantech",
+      "font_class": "Advantech",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "39721843",
+      "name": "Acer",
+      "font_class": "Acer",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "39721844",
+      "name": "Asus",
+      "font_class": "Asus",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "39721846",
+      "name": "Bitdefender",
+      "font_class": "Bitdefender",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "39721847",
+      "name": "Brother",
+      "font_class": "Brother",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "39721848",
+      "name": "Canon",
+      "font_class": "Canon",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "39721849",
+      "name": "Cisco",
+      "font_class": "Cisco",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "39721850",
+      "name": "CasperBilgisayarSistemleri",
+      "font_class": "CasperBilgisayarSistemleri",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "39721851",
+      "name": "ASRock",
+      "font_class": "ASRock",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "39721852",
+      "name": "Avaya",
+      "font_class": "Avaya",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "39721853",
+      "name": "Avance",
+      "font_class": "Avance",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "39721854",
+      "name": "Cujo",
+      "font_class": "Cujo",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "39721855",
+      "name": "ArubaNetworks",
+      "font_class": "ArubaNetworks",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "39721856",
+      "name": "DPTECHSB",
+      "font_class": "DPTECHSB",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "39721857",
+      "name": "Autonomic",
+      "font_class": "Autonomic",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "39721858",
+      "name": "Epson",
+      "font_class": "Epson",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "39721859",
+      "name": "Fast",
+      "font_class": "Fast",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "39721860",
+      "name": "CustomPc",
+      "font_class": "CustomPc",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "39721861",
+      "name": "Fujitsu",
+      "font_class": "Fujitsu",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "39721862",
+      "name": "Dahua",
+      "font_class": "Dahua",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "39721863",
+      "name": "Bowers&Wilkins",
+      "font_class": "a-BowersWilkins",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "39721864",
+      "name": "Dynabook",
+      "font_class": "Dynabook",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "39721865",
+      "name": "Biostar",
+      "font_class": "Biostar",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "39721866",
+      "name": "ASB",
+      "font_class": "ASB",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "39721867",
+      "name": "D-Link",
+      "font_class": "D-Link",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "39721868",
+      "name": "Escene",
+      "font_class": "Escene",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "39721869",
+      "name": "Greatwall",
+      "font_class": "Greatwall",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "39721870",
+      "name": "Inspur",
+      "font_class": "Inspur",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "39721871",
+      "name": "ColorfulTechnologyAndDevelopm",
+      "font_class": "ColorfulTechnologyAndDevelopm",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "39721872",
+      "name": "ChassisManufacturer",
+      "font_class": "ChassisManufacturer",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "39721873",
+      "name": "Enphase",
+      "font_class": "Enphase",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "39721874",
+      "name": "Directv",
+      "font_class": "Directv",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "39721875",
+      "name": "FUJIFILM",
+      "font_class": "FUJIFILM",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "39721876",
+      "name": "Lenovo",
+      "font_class": "Lenovo",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "39721877",
+      "name": "Hikvision",
+      "font_class": "Hikvision",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "39721878",
+      "name": "Foundertech",
+      "font_class": "Foundertech",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "39721879",
+      "name": "Intel",
+      "font_class": "Intel",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "39721880",
+      "name": "JCG",
+      "font_class": "JCG",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "39721881",
+      "name": "H3C",
+      "font_class": "H3C",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "39721882",
+      "name": "GigabyteTechnology",
+      "font_class": "GigabyteTechnology",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "39721883",
+      "name": "Meizu",
+      "font_class": "Meizu",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "39721884",
+      "name": "Hitachi",
+      "font_class": "Hitachi",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "39721885",
+      "name": "HPE",
+      "font_class": "HPE",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "39721886",
+      "name": "GalaxyWind",
+      "font_class": "GalaxyWind",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "39721887",
+      "name": "iKuaiOS",
+      "font_class": "iKuaiOS",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "39721888",
+      "name": "Iftest",
+      "font_class": "Iftest",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "39721889",
+      "name": "ECS",
+      "font_class": "ECS",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "39721890",
+      "name": "Google",
+      "font_class": "Google",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "39721891",
+      "name": "Aaeon",
+      "font_class": "Aaeon",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "39721892",
+      "name": "iRobot",
+      "font_class": "iRobot",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "39721893",
+      "name": "Jwipc",
+      "font_class": "Jwipc",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "39721894",
+      "name": "KonicaMinolta",
+      "font_class": "KonicaMinolta",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "39721895",
+      "name": "KabyLake",
+      "font_class": "KabyLake",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "39721896",
+      "name": "AmericanMegatrends",
+      "font_class": "AmericanMegatrends",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "39721897",
+      "name": "Multilaser",
+      "font_class": "Multilaser",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "39721898",
+      "name": "Dell",
+      "font_class": "Dell",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "39721899",
+      "name": "Gembird",
+      "font_class": "Gembird",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "39721900",
+      "name": "CompuLab",
+      "font_class": "CompuLab",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "39721901",
+      "name": "Greatek",
+      "font_class": "Greatek",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "39721902",
+      "name": "Hisense",
+      "font_class": "Hisense",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "39721903",
+      "name": "HP",
+      "font_class": "HP",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "39721904",
+      "name": "IBM",
+      "font_class": "IBM",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "39721905",
+      "name": "BDCOM",
+      "font_class": "BDCOM",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "39721906",
+      "name": "Huawei",
+      "font_class": "Huawei",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "39721907",
+      "name": "Getac",
+      "font_class": "Getac",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "39721908",
+      "name": "EagleEyeNetworks",
+      "font_class": "EagleEyeNetworks",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "39721909",
+      "name": "Jio",
+      "font_class": "Jio",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "39721910",
+      "name": "EntrustDatacard",
+      "font_class": "EntrustDatacard",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "39721911",
+      "name": "Lutron",
+      "font_class": "Lutron",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "39721912",
+      "name": "Huddly",
+      "font_class": "Huddly",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "39721913",
+      "name": "Maxprint",
+      "font_class": "Maxprint",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "39721914",
+      "name": "Moxa",
+      "font_class": "Moxa",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "39721915",
+      "name": "Opzoon",
+      "font_class": "Opzoon",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "39721916",
+      "name": "Espera-Werke",
+      "font_class": "Espera-Werke",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "39721917",
+      "name": "kedacom",
+      "font_class": "kedacom",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "39721918",
+      "name": "NEC",
+      "font_class": "NEC",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "39721919",
+      "name": "Lantronix",
+      "font_class": "Lantronix",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "39721920",
+      "name": "OKI",
+      "font_class": "OKI",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "39721921",
+      "name": "Nintendo",
+      "font_class": "Nintendo",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "39721922",
+      "name": "OnePlus",
+      "font_class": "OnePlus",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "39721923",
+      "name": "InternetInitiativeJapan",
+      "font_class": "InternetInitiativeJapan",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "39721924",
+      "name": "NewlineInteractive",
+      "font_class": "NewlineInteractive",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "39721925",
+      "name": "MT-Link",
+      "font_class": "MT-Link",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "39721926",
+      "name": "Nimble",
+      "font_class": "Nimble",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "39721927",
+      "name": "Nvidia",
+      "font_class": "Nvidia",
+      "unicode": "e6d0",
+      "unicode_decimal": 59088
+    },
+    {
+      "icon_id": "39721928",
+      "name": "Logitech",
+      "font_class": "Logitech",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "39721929",
+      "name": "NanjingSandemarineElectric",
+      "font_class": "NanjingSandemarineElectric",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "39721930",
+      "name": "Mercury",
+      "font_class": "Mercury",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "39721931",
+      "name": "Phicomm",
+      "font_class": "Phicomm",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "39721932",
+      "name": "Kyocera",
+      "font_class": "Kyocera",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "39721933",
+      "name": "MscVertriebs",
+      "font_class": "MscVertriebs",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "39721934",
+      "name": "Realme",
+      "font_class": "Realme",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "39721935",
+      "name": "Lexmark",
+      "font_class": "Lexmark",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "39721936",
+      "name": "OmronHealthcare",
+      "font_class": "OmronHealthcare",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "39721937",
+      "name": "MyPower",
+      "font_class": "MyPower",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "39721938",
+      "name": "IGEL",
+      "font_class": "IGEL",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "39721939",
+      "name": "Oracle",
+      "font_class": "Oracle",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "39721940",
+      "name": "netAlly",
+      "font_class": "netAlly",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "39721941",
+      "name": "QNAPSystems",
+      "font_class": "QNAPSystems",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "39721942",
+      "name": "Medion",
+      "font_class": "Medion",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "39721943",
+      "name": "Microsoft",
+      "font_class": "Microsoft",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "39721944",
+      "name": "Meross",
+      "font_class": "Meross",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "39721945",
+      "name": "MSI",
+      "font_class": "MSI",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    },
+    {
+      "icon_id": "39721946",
+      "name": "Nexcom",
+      "font_class": "Nexcom",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "39721947",
+      "name": "Smartisan",
+      "font_class": "Smartisan",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "39721948",
+      "name": "DirectLOGIC",
+      "font_class": "DirectLOGIC",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "39721949",
+      "name": "Technopc",
+      "font_class": "Technopc",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "39721950",
+      "name": "Novatech",
+      "font_class": "Novatech",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "39721951",
+      "name": "OmegaTechnologyWirelessNRout",
+      "font_class": "OmegaTechnologyWirelessNRout",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "39721952",
+      "name": "Verizon",
+      "font_class": "Verizon",
+      "unicode": "e6e9",
+      "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "39721953",
+      "name": "a-UltraElectronicsCommandCont",
+      "font_class": "a-UltraElectronicsCommandCont",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "39721954",
+      "name": "Netgear",
+      "font_class": "Netgear",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "39721955",
+      "name": "Nortel",
+      "font_class": "Nortel",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "39721956",
+      "name": "Oppo",
+      "font_class": "Oppo",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "39721957",
+      "name": "Panasonic",
+      "font_class": "Panasonic",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "39721958",
+      "name": "Philips",
+      "font_class": "Philips",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "39721959",
+      "name": "Peloton",
+      "font_class": "Peloton",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "39721960",
+      "name": "Realtek",
+      "font_class": "Realtek",
+      "unicode": "e6f1",
+      "unicode_decimal": 59121
+    },
+    {
+      "icon_id": "39721961",
+      "name": "Samson",
+      "font_class": "Samson",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "39721962",
+      "name": "Softbank",
+      "font_class": "Softbank",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "39721963",
+      "name": "XEN",
+      "font_class": "XEN",
+      "unicode": "e6f4",
+      "unicode_decimal": 59124
+    },
+    {
+      "icon_id": "39721964",
+      "name": "Ring",
+      "font_class": "Ring",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "39721965",
+      "name": "Netis",
+      "font_class": "Netis",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "39721966",
+      "name": "Siemens",
+      "font_class": "Siemens",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    },
+    {
+      "icon_id": "39721967",
+      "name": "Supermicro",
+      "font_class": "Supermicro",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "39721968",
+      "name": "QualcommAllPlay",
+      "font_class": "QualcommAllPlay",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "39721969",
+      "name": "Roku",
+      "font_class": "Roku",
+      "unicode": "e6fa",
+      "unicode_decimal": 59130
+    },
+    {
+      "icon_id": "39721970",
+      "name": "NihonKohden",
+      "font_class": "NihonKohden",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "39721971",
+      "name": "Polycom",
+      "font_class": "Polycom",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "39721972",
+      "name": "Interlogix",
+      "font_class": "Interlogix",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "39721973",
+      "name": "VMware",
+      "font_class": "VMware",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "39721974",
+      "name": "PixelTi",
+      "font_class": "PixelTi",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "39721975",
+      "name": "Pantum",
+      "font_class": "Pantum",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
+      "icon_id": "39721976",
+      "name": "Razer",
+      "font_class": "Razer",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "39721977",
+      "name": "Xerox",
+      "font_class": "Xerox",
+      "unicode": "e702",
+      "unicode_decimal": 59138
+    },
+    {
+      "icon_id": "39721978",
+      "name": "XTC",
+      "font_class": "XTC",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "39721979",
+      "name": "Vivo",
+      "font_class": "Vivo",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "39721980",
+      "name": "ToshibaTec",
+      "font_class": "ToshibaTec",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "39721981",
+      "name": "Yealink",
+      "font_class": "Yealink",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "39721982",
+      "name": "TDA-TechnologyDivisionAdvanc",
+      "font_class": "TDA-TechnologyDivisionAdvanc",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "39721983",
+      "name": "ZTE",
+      "font_class": "ZTE",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "39721984",
+      "name": "Dtri",
+      "font_class": "Dtri",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "39721985",
+      "name": "Xiaomi",
+      "font_class": "Xiaomi",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "39721986",
+      "name": "Rockchip",
+      "font_class": "Rockchip",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "39721987",
+      "name": "Sharp",
+      "font_class": "Sharp",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "39721988",
+      "name": "Tenda",
+      "font_class": "Tenda",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "39721989",
+      "name": "Samsung",
+      "font_class": "Samsung",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "39721990",
+      "name": "TP-Link",
+      "font_class": "TP-Link",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "39721991",
+      "name": "Emachines",
+      "font_class": "Emachines",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "39721992",
+      "name": "NAD",
+      "font_class": "NAD",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "39721993",
+      "name": "RaspberryPi",
+      "font_class": "RaspberryPi",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "39721994",
+      "name": "Thomson",
+      "font_class": "Thomson",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "39721995",
+      "name": "Sky",
+      "font_class": "Sky",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    },
+    {
+      "icon_id": "39721996",
+      "name": "Zebra",
+      "font_class": "Zebra",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "39721997",
+      "name": "Jdcos",
+      "font_class": "Jdcos",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "39721998",
+      "name": "KaonMedia",
+      "font_class": "KaonMedia",
+      "unicode": "e717",
+      "unicode_decimal": 59159
+    },
+    {
+      "icon_id": "39721999",
+      "name": "Sonnet",
+      "font_class": "Sonnet",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "39722000",
+      "name": "Toshiba",
+      "font_class": "Toshiba",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "39722001",
+      "name": "TCL",
+      "font_class": "TCL",
+      "unicode": "e71a",
+      "unicode_decimal": 59162
+    },
+    {
+      "icon_id": "39722002",
+      "name": "ESC",
+      "font_class": "ESC",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "39722003",
+      "name": "Ubee",
+      "font_class": "Ubee",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "39722004",
+      "name": "Link-NetTechnology",
+      "font_class": "Link-NetTechnology",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "39722005",
+      "name": "Tilgin",
+      "font_class": "Tilgin",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "39722006",
+      "name": "Sony",
+      "font_class": "Sony",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "39722007",
+      "name": "Synology",
+      "font_class": "Synology",
+      "unicode": "e720",
+      "unicode_decimal": 59168
+    },
+    {
+      "icon_id": "39722008",
+      "name": "Topsec",
+      "font_class": "Topsec",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "39722009",
+      "name": "Viglen",
+      "font_class": "Viglen",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "39722010",
+      "name": "W-NetTechnology",
+      "font_class": "W-NetTechnology",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "39722011",
+      "name": "L3Harris",
+      "font_class": "L3Harris",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    },
+    {
+      "icon_id": "39722012",
+      "name": "Ruijie",
+      "font_class": "Ruijie",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "39722013",
+      "name": "MaxprintTechnology",
+      "font_class": "MaxprintTechnology",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "39722014",
+      "name": "NI",
+      "font_class": "NI",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "39722015",
+      "name": "Teradici",
+      "font_class": "Teradici",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "39722016",
+      "name": "TsinghuaTongfangComputer",
+      "font_class": "TsinghuaTongfangComputer",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "39722017",
+      "name": "Parallels",
+      "font_class": "Parallels",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "39722018",
+      "name": "Olidata",
+      "font_class": "Olidata",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    },
+    {
+      "icon_id": "39722020",
+      "name": "ShenzhenCudyTechnology",
+      "font_class": "ShenzhenCudyTechnology",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "39722021",
+      "name": "Swann",
+      "font_class": "Swann",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "39722022",
+      "name": "Oukitel",
+      "font_class": "Oukitel",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    },
+    {
+      "icon_id": "39722023",
+      "name": "Ricoh",
+      "font_class": "Ricoh",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "39722024",
+      "name": "Wind River VxWorks",
+      "font_class": "a-WindRiverVxWorks",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "39722025",
+      "name": "YucelElektronik-Technopc",
+      "font_class": "YucelElektronik-Technopc",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "39722026",
+      "name": "SmartTV",
+      "font_class": "SmartTV",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "39722027",
+      "name": "STFMobile",
+      "font_class": "STFMobile",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "39722028",
+      "name": "ViewSonic",
+      "font_class": "ViewSonic",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "39722029",
+      "name": "Timi",
+      "font_class": "Timi",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "39722030",
+      "name": "PackardBell",
+      "font_class": "PackardBell",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "39721677",
+      "name": "CAC",
+      "font_class": "CAC",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "39721676",
+      "name": "BDTERMINAL",
+      "font_class": "BDTERMINAL",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "39721680",
+      "name": "BIGDATA",
+      "font_class": "BIGDATA",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "39721675",
+      "name": "AUTH",
+      "font_class": "AUTH",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "39721674",
+      "name": "APPSERVER",
+      "font_class": "APPSERVER",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "39721672",
+      "name": "ATTENDANCE",
+      "font_class": "ATTENDANCE",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "39721678",
+      "name": "CLOUDTERMINAL",
+      "font_class": "CLOUDTERMINAL",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "39721673",
+      "name": "ATM",
+      "font_class": "ATM",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "39721671",
+      "name": "BASTIONHOST",
+      "font_class": "BASTIONHOST",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "39721669",
+      "name": "ADSERVER",
+      "font_class": "ADSERVER",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "39721670",
+      "name": "ASSET",
+      "font_class": "ASSET",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "39721667",
+      "name": "AP",
+      "font_class": "AP",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "39721668",
+      "name": "AM",
+      "font_class": "AM",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "39721665",
+      "name": "ACT",
+      "font_class": "ACT",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "39721666",
+      "name": "AC",
+      "font_class": "AC",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "39721698",
+      "name": "LAPTOP",
+      "font_class": "LAPTOP",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "39721688",
+      "name": "DBA",
+      "font_class": "DBA",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "39721690",
+      "name": "FIREWALL",
+      "font_class": "FIREWALL",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "39721695",
+      "name": "GAP",
+      "font_class": "GAP",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "39721693",
+      "name": "GAMECONSOLE",
+      "font_class": "GAMECONSOLE",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "39721694",
+      "name": "FAX",
+      "font_class": "FAX",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "39721697",
+      "name": "IOT",
+      "font_class": "IOT",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "39721696",
+      "name": "HUB",
+      "font_class": "HUB",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "39721692",
+      "name": "DVR",
+      "font_class": "DVR",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "39721684",
+      "name": "DNBZZGSYS",
+      "font_class": "DNBZZGSYS",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "39721689",
+      "name": "ENCODER",
+      "font_class": "ENCODER",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "39721687",
+      "name": "FAXSERVER",
+      "font_class": "FAXSERVER",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "39721685",
+      "name": "EEAT",
+      "font_class": "EEAT",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "39721686",
+      "name": "DLP",
+      "font_class": "DLP",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "39721682",
+      "name": "DDOSPROTECTION",
+      "font_class": "DDOSPROTECTION",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "39721683",
+      "name": "CAMERA",
+      "font_class": "CAMERA",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "39721681",
+      "name": "DESKTOP",
+      "font_class": "DESKTOP",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "39721679",
+      "name": "BRIDGE",
+      "font_class": "BRIDGE",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "39721715",
+      "name": "NVR",
+      "font_class": "NVR",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "39721723",
+      "name": "POWERQUALITY",
+      "font_class": "POWERQUALITY",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "39721717",
+      "name": "POWER",
+      "font_class": "POWER",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "39721714",
+      "name": "PAD",
+      "font_class": "PAD",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "39721711",
+      "name": "PC",
+      "font_class": "PC",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "39721710",
+      "name": "LOADBALANCE",
+      "font_class": "LOADBALANCE",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "39721701",
+      "name": "IPS",
+      "font_class": "IPS",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "39721713",
+      "name": "OILCG",
+      "font_class": "OILCG",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "39721712",
+      "name": "MCU",
+      "font_class": "MCU",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "39721705",
+      "name": "LDAPSERVER",
+      "font_class": "LDAPSERVER",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "39721708",
+      "name": "MCUSERVER",
+      "font_class": "MCUSERVER",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "39721703",
+      "name": "MEDIADEV",
+      "font_class": "MEDIADEV",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "39721704",
+      "name": "MOBILE",
+      "font_class": "MOBILE",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "39721699",
+      "name": "LOGMANAGER",
+      "font_class": "LOGMANAGER",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "39721706",
+      "name": "NETWORKDEVICE",
+      "font_class": "NETWORKDEVICE",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "39721707",
+      "name": "NTC",
+      "font_class": "NTC",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "39721700",
+      "name": "MOBILEPHONE",
+      "font_class": "MOBILEPHONE",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "39721702",
+      "name": "IDS",
+      "font_class": "IDS",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "39721691",
+      "name": "GENERAL",
+      "font_class": "GENERAL",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "39721734",
+      "name": "SERVER",
+      "font_class": "SERVER",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "39721737",
+      "name": "Terminal",
+      "font_class": "Terminal",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "39721733",
+      "name": "NAC",
+      "font_class": "NAC",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "39721728",
+      "name": "REMOTEMANAGEMENT",
+      "font_class": "REMOTEMANAGEMENT",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "39721727",
+      "name": "SAS",
+      "font_class": "SAS",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "39721735",
+      "name": "SPECIALIZED",
+      "font_class": "SPECIALIZED",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "39721730",
+      "name": "SCANNER",
+      "font_class": "SCANNER",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "39721731",
+      "name": "SAFETY",
+      "font_class": "SAFETY",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "39721732",
+      "name": "SMARTMETER",
+      "font_class": "SMARTMETER",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "39721729",
+      "name": "SERIALSERVER",
+      "font_class": "SERIALSERVER",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "39721725",
+      "name": "LINUXSERVER",
+      "font_class": "LINUXSERVER",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "39721726",
+      "name": "PRINTER",
+      "font_class": "PRINTER",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "39721722",
+      "name": "PRINTINGSERVER",
+      "font_class": "PRINTINGSERVER",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "39721724",
+      "name": "POLYCOMTERMINAL",
+      "font_class": "POLYCOMTERMINAL",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "39721721",
+      "name": "PROXYSERVER",
+      "font_class": "PROXYSERVER",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "39721719",
+      "name": "POS",
+      "font_class": "POS",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "39721718",
+      "name": "PEM",
+      "font_class": "PEM",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "39721716",
+      "name": "ONU",
+      "font_class": "ONU",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "39721709",
+      "name": "NAS",
+      "font_class": "NAS",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "39721736",
+      "name": "STORAGEDEVICE",
+      "font_class": "STORAGEDEVICE",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "39721738",
+      "name": "TELECOMMISC",
+      "font_class": "TELECOMMISC",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "39721757",
+      "name": "VMSERVER",
+      "font_class": "VMSERVER",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "39721745",
+      "name": "VCS",
+      "font_class": "VCS",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "39721755",
+      "name": "VOIPADAPTER",
+      "font_class": "VOIPADAPTER",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "39721752",
+      "name": "WINDOWSSERVER",
+      "font_class": "WINDOWSSERVER",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "39721749",
+      "name": "VIDEOSERVER",
+      "font_class": "VIDEOSERVER",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "39721754",
+      "name": "VM",
+      "font_class": "VM",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "39721753",
+      "name": "WAF",
+      "font_class": "WAF",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "39721751",
+      "name": "VMWAREVSPHERE",
+      "font_class": "VMWAREVSPHERE",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "39721750",
+      "name": "WEBSCAN",
+      "font_class": "WEBSCAN",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "39721748",
+      "name": "VMWAREESXI",
+      "font_class": "VMWAREESXI",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "39721742",
+      "name": "UPS",
+      "font_class": "UPS",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "39721746",
+      "name": "UNKNOWN",
+      "font_class": "UNKNOWN",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "39721747",
+      "name": "VDS",
+      "font_class": "VDS",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "39721744",
+      "name": "TERMINALSERVER",
+      "font_class": "TERMINALSERVER",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "39721743",
+      "name": "UTM",
+      "font_class": "UTM",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "39721740",
+      "name": "THINCLIENT",
+      "font_class": "THINCLIENT",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "39721741",
+      "name": "TELEVISION",
+      "font_class": "TELEVISION",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "39721739",
+      "name": "SWITCH",
+      "font_class": "SWITCH",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "39721720",
+      "name": "IPPBX",
+      "font_class": "IPPBX",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "39721761",
+      "name": "ROUTER",
+      "font_class": "ROUTER",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "39721756",
+      "name": "VSS",
+      "font_class": "VSS",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "39721760",
+      "name": "icon-kfckfc",
+      "font_class": "VPN",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "39721758",
+      "name": "VOIP",
+      "font_class": "VOIP",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "39721759",
+      "name": "WIRELESS",
+      "font_class": "WIRELESS",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "39721133",
+      "name": "Ubuntu",
+      "font_class": "Ubuntu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "39721131",
+      "name": "MacOS",
+      "font_class": "MacOS",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "39721129",
+      "name": "Android",
+      "font_class": "Android",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "39721143",
+      "name": "Linux",
+      "font_class": "Linux",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "39721142",
+      "name": "Funda",
+      "font_class": "Funda",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "39721137",
+      "name": "Unix",
+      "font_class": "Unix",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "39721141",
+      "name": "VRP",
+      "font_class": "VRP",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "39721130",
+      "name": "H3C Comware",
+      "font_class": "a-H3CComware",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "39721140",
+      "name": "WindRiverVxWorks",
+      "font_class": "WindRiverVxWorks",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "39721139",
+      "name": "UNIX-like",
+      "font_class": "UNIX-like",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "39721138",
+      "name": "unKnowOs",
+      "font_class": "unKnowOs",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "39721128",
+      "name": "cisco IOS",
+      "font_class": "a-ciscoIOS",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "39721136",
+      "name": "openSUSE",
+      "font_class": "openSUSE",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "39721132",
+      "name": "Debian",
+      "font_class": "Debian",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "39721127",
+      "name": "CentOS",
+      "font_class": "CentOS",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "39721135",
+      "name": "Windows",
+      "font_class": "Windows",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "39721134",
+      "name": "KylinOS",
+      "font_class": "KylinOS",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}

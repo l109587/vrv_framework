@@ -1,0 +1,138 @@
+.treecard>.ant-pro-card-body {
+  overflow-y: auto;
+}
+
+.treecardfront  {
+  transition: all 1s;
+  transform: translate(-238px,0px);
+}
+
+.treecard .ant-tree{
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+.treecard .ant-tree .ant-tree-node-content-wrapper{
+  white-space: nowrap;
+}
+
+.treecardmoveafter  {
+  transition: all 1s;
+  transform: translate(0px, 0px);
+}
+
+.zdislpayArrow {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 0px;
+  height: 100%;
+  z-index: 10;
+  transition: all 0.2s ease 0s;
+}
+.zarrowfront {
+  right : 20px;
+}
+
+.zarrowafter {
+  right: 5px
+}
+
+.zdislpayArrow a {
+  background: url(../../../assets/common/icon_arrow.png) no-repeat 0 0;
+  position: absolute;
+  display: block;
+  width: 17px;
+  height: 61px;
+  top: 50%;
+  margin-top: -30px;
+  outline: none;
+}
+
+.zarrowfront:hover {
+  right: 15px;
+}
+
+.zarrowafter:hover {
+  right: 0px;
+}
+
+.zdislpayArrow a.open {
+  background-position: 0 -61px;
+}
+
+.zdislpayArrow a:hover {
+  text-decoration: none;
+  background-position: right 0
+}
+
+.zdislpayArrow a.open:hover {
+  background-position: right -61px
+}
+
+.zdislpayArrow a.open {
+  background-position: 0 -61px;
+}
+
+.ztreecard .ant-menu-vertical {
+  border-right: 0px !important;
+}
+
+.ztreecard .ant-pro-card-title {
+  white-space: nowrap;
+}
+
+.cardModalContain > .ant-pro-card-body {
+  display: flex;
+  align-items: center;
+}
+
+.ztreecard .ant-tree{
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  &::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    // background-color: #ccc; // 滑块颜色
+    background-color: #fff;
+    border-radius: 5px; // 滑块圆角
+    border-style: dashed;
+    border-color: transparent;
+    border-width: 1.5px;
+    background-clip: padding-box;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background-color: #fff;
+  }
+}
+
+.ztreecard .ant-tree:hover {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+
+  &::-webkit-scrollbar {
+    width: 10px;
+    height: 10px !important;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    // background-color: #ccc; // 滑块颜色
+    background-color: rgba(157, 165, 183, 0.4);
+    border-radius: 5px; // 滑块圆角
+    border-style: dashed;
+    border-color: transparent;
+    border-width: 1.5px;
+    background-clip: padding-box;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(157, 165, 183, 0.7);
+  }
+
+}
